@@ -6,6 +6,16 @@ This repository contains my Tableau workbook **Project_Group_7.twbx**, built for
 
 ---
 
+## Data Source
+
+This dashboard is built using the **Canada COVID-19** dataset from Kaggle:
+
+[Canada COVID-19 – Kaggle Dataset](https://www.kaggle.com/datasets/jaswanthhbadvelu/canada-covid-19)
+
+The dataset contains case-level information for COVID-19 in Canada, including region, age group, gender, transmission type, and case outcome.
+
+---
+
 ## Key Questions
 
 The dashboard is designed to answer questions such as:
@@ -63,4 +73,10 @@ The dashboard is designed to answer questions such as:
 1. Download `Project_Group_7.twbx` from this repository.
 2. Open it in **Tableau Desktop** (or Tableau Public Desktop, if compatible).
 3. Use the dashboard filters and interactive elements to explore the data.
+
+## Live Interactive Dashboard
+
+You can explore the interactive version of this dashboard on Tableau Public:
+
+[View the COVID-19 Canada Dashboard on Tableau Public](https://public.tableau.com/views/Project_Group_7_17653319730880/COVID-19inCanadaOutcomesDemographicsandRegionalTrends?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
