@@ -35,6 +35,11 @@ The dashboard is designed to answer questions such as:
   Filled map of Canada showing total case counts by province, with labels and colour intensity for quick identification of hot spots.
 
 ---
+## Dashboard Preview
+
+![COVID-19 Canada Dashboard](images/dashboard_overview.png)
+
+---
 
 ## Files
 
@@ -58,3 +63,4 @@ The dashboard is designed to answer questions such as:
 1. Download `Project_Group_7.twbx` from this repository.
 2. Open it in **Tableau Desktop** (or Tableau Public Desktop, if compatible).
 3. Use the dashboard filters and interactive elements to explore the data.
+
