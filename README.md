@@ -66,6 +66,7 @@ The dashboard is designed to answer questions such as:
 - Communicating insights with titles, captions, and labels
 - Basic geospatial visualization using province-level data
 
+
 ---
 
 ## How to Open the Workbook
@@ -78,7 +79,8 @@ The dashboard is designed to answer questions such as:
 
 You can download the Tableau packaged workbook here:
 
-[Download Project_Group_7.twbx]()
+[Download Project_Group_7.twbx](https://github.com/KajalS99/covid-canada-tableau-dashboard/blob/main/Project_Group_7.twbx)
+
 
 
 
