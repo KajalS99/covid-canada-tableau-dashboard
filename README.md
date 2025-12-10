@@ -74,9 +74,11 @@ The dashboard is designed to answer questions such as:
 2. Open it in **Tableau Desktop** (or Tableau Public Desktop, if compatible).
 3. Use the dashboard filters and interactive elements to explore the data.
 
-## Live Interactive Dashboard
+## Download the Workbook
 
-You can explore the interactive version of this dashboard on Tableau Public:
+You can download the Tableau packaged workbook here:
 
-[View the COVID-19 Canada Dashboard on Tableau Public](https://public.tableau.com/views/Project_Group_7_17653319730880/COVID-19inCanadaOutcomesDemographicsandRegionalTrends?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Download Project_Group_7.twbx]()
+
+
 
